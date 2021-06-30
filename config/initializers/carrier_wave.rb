@@ -7,6 +7,5 @@ if Rails.env.production?
       region: "ap-northeast-1"
     }
     config.fog_directory = "sample-app-s3-for-image"
-    config.asset_host = "https://static.choiceeees.net"
   end
 end

@@ -48,5 +48,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "carrierwave", "~> 2.2"
-
-
+gem "fog-aws", "~> 3.10"
